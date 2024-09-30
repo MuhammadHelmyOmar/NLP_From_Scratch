@@ -1,2 +1,3 @@
 # NLP_From_Scratch
-Stanford Speech and Language Processing Textbook: Studying and Coding
+Solving and implementing the pseudo-code algorithms and exercises from the Stanford book: Speech and Language Processing.
+I tried the algorithms on both English and Arabic languages.
