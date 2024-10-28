@@ -1,4 +1,4 @@
-# NLP_From_Scratch
+# NLP From Scratch
 Stanford's Speech and Language Processing Book:
 - Summarizing the content
 - Implementation of the pseudo-code algorithms
