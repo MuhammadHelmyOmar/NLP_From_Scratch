@@ -5,4 +5,4 @@ Stanford's Speech and Language Processing Book:
 - Solving exercises
 - Testing on English and Arabic languages
 
-Unfortunately, I started summarizing only in chapter 4.
+Unfortunately, I started summarizing in chapter 4.
